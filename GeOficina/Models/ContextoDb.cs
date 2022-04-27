@@ -18,7 +18,7 @@ namespace GeOficina.Models
 
 
 
-        public DbSet<Oficina> Oficinas { get; set; }
+      
 
 
 
